@@ -1,0 +1,23 @@
+// Globals
+export const headerBanner = document.querySelector(".header-banner");
+export const loadBanner3 = document.querySelector(".load3");
+export const loadBanner2 = document.querySelector(".load2");
+export const loadBanner1 = document.querySelector(".load1");
+export const bannerTitle = document.querySelector(".banner-title");
+export const bannerDetails = document.querySelector(".banner-details");
+export const bannerLink = document.querySelector(".banner-link");
+export const searchIcon = document.querySelector(".search-icon");
+export const searchBox = document.querySelector(".search-box");
+export const categoreSlider = document.querySelector(".categories__slider");
+export const categoreLoader3 = document.querySelector(".categories-loader3");
+export const categoreLoader2 = document.querySelector(".categories-loader2");
+export const categoreLoader1 = document.querySelector(".categories-loader1");
+export const commentsSlider= document.querySelector(".comments-container");
+export const reviewLoader3= document.querySelector(".review-loader3");
+export const reviewLoader2= document.querySelector(".review-loader2");
+export const reviewLoader1= document.querySelector(".review-loader1");
+export const menu = document.querySelector(".menu");
+export const openMenu = document.querySelector(".open");
+export const closeMenu = document.querySelector(".close");
+export const headerOptions = document.querySelector(".header-options");
+export const headerIcons = document.querySelectorAll(".header-icons");
