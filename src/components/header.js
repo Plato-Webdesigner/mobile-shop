@@ -9,9 +9,9 @@ import { searchBox } from '../globals.js';
 import { searchIcon } from '../globals.js';
 
 const banners = [
-    { id: 1, title: "آیفون 18 پرومکس", detail: "آیفون 18 پرومکس موجود است جهت نمایش اطلاعات گوشی کلیک نمایید", href: "https://www.apple.com/", src: "../../imgs/iphone-18-news.jpg" },
-    { id: 2, title: "S26 Ultra", detail: "گوشی گلکسی S26 Ultra موجود است جهت نمایش اطلاعات کلیک نمایید", href: "https://www.samsung.com/us/", src: "../../imgs/galaxy-s26-ultra-features-colors-durability-a-mo.jpg" },
-    { id: 3, title: "شیائومی 17 پرومکس", detail: "شیائومی 17 پرومکس موجود است جهت نمایش اطلاعات گوشی کلیک نمایید", href: "https://www.mi.com/global/", src: "../../imgs/mi17Pro.jpg" }
+    { id: 1, title: "آیفون 18 پرومکس", detail: "آیفون 18 پرومکس موجود است جهت نمایش اطلاعات گوشی کلیک نمایید", href: "https://www.apple.com/", src: "./imgs/iphone-18-news.jpg" },
+    { id: 2, title: "S26 Ultra", detail: "گوشی گلکسی S26 Ultra موجود است جهت نمایش اطلاعات کلیک نمایید", href: "https://www.samsung.com/us/", src: "./imgs/galaxy-s26-ultra-features-colors-durability-a-mo.jpg" },
+    { id: 3, title: "شیائومی 17 پرومکس", detail: "شیائومی 17 پرومکس موجود است جهت نمایش اطلاعات گوشی کلیک نمایید", href: "https://www.mi.com/global/", src: "./imgs/mi17Pro.jpg" }
 ];
 
 let currentIndex = 0;
